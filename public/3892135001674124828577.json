@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "325077491541",
+    "project_id": "islamic-wallpaper-41c6e",
+    "storage_bucket": "islamic-wallpaper-41c6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325077491541:android:32444a65eac7ad065759dc",
+        "android_client_info": {
+          "package_name": "com.purbalink.wallpaperislamic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325077491541-c3pkj0mp2kuall6iv1k5utul5959o3hh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQvIFkRKCMF7RWQOpSo5F_6Hb0iDZBSG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325077491541-c3pkj0mp2kuall6iv1k5utul5959o3hh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
